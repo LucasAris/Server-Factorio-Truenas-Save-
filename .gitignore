@@ -9,3 +9,4 @@ server-settings.json
 # Logs (opcional, se não quiser subir)
 logs/
 *.log
+01-FACTORIO/saves/_autosave*.zip
