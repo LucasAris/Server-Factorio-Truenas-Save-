@@ -1,0 +1,11 @@
+# Credenciais
+server-settings.json
+
+# Caso tenha algum .env
+.env
+*.token
+*.key
+
+# Logs (opcional, se não quiser subir)
+logs/
+*.log
