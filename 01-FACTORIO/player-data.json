@@ -943,7 +943,7 @@
         "name": "Ouroboros",
         "description": "01-MUNDO_SPACE_AGE",
         "max_players": 2,
-        "game_time_elapsed": 30838,
+        "game_time_elapsed": 32640,
         "has_password": true,
         "tags": 
         [
@@ -963,7 +963,7 @@
       "required-verification": false,
       "enable-whitelist": true
     },
-    "save-name": "_autosave1"
+    "save-name": "mp-save-0"
   },
   "service-username": "",
   "service-token": "",
